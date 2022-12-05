@@ -1,4 +1,4 @@
-<h3 align="center"># Hi there! 👋</h3>
+# Hi there! 👋
 ## My name is Thitiwat Damrongpiriyapong 
 
 ##  😄 About Me
