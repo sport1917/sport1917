@@ -13,10 +13,8 @@
 <a href="https://instagram.com/oat_1917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oat_1917" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+##  🔥 Stats
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sport1917&show_icons=true&locale=en&layout=compact" alt="sport1917" /></p>
