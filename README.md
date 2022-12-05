@@ -1,4 +1,4 @@
-# Hi there! 👋
+<h3 align="center"># Hi there! 👋</h3>
 ## My name is Thitiwat Damrongpiriyapong 
 
 ##  😄 About Me
@@ -8,9 +8,6 @@
 -    Interest and Activities : reading, video games, playing guitar
 
 ##  🌌 Social
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/thitiwat damrongpiriyapong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thitiwat damrongpiriyapong" height="30" width="40" /></a>
 <a href="https://instagram.com/oat_1917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oat_1917" height="30" width="40" /></a>
